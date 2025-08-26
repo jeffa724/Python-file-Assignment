@@ -1,12 +1,12 @@
 # Use a for loop to print numbers from 1 to 10.
-# for i in range(1,11):
-#     print(i)
+for i in range(1,11):
+    print(i)
 # Use a while loop to print numbers until the user enters stop.
-# while True:
-#     user=input(":")
-#     if user.lower()=="stop":
-#         break
-#     print("user")
+while True:
+    user=input(":")
+    if user.lower()=="stop":
+        break
+    print("user")
     
 
 # Write a loop that prints even numbers from 1 to 20.

@@ -28,11 +28,3 @@ print("The unique values are:",unique_values)
 # Use a for loop to print numbers from 1 to 10.
 for i in range(1,10):
     print(i)
-# Use a while loop to print numbers until the user enters stop.
-# Write a loop that prints even numbers from 1 to 20.
-# Explain what break and continue do in your own words.
-# Challenge
-# Write a guessing game that asks the user to guess a secret number between 1 and 10.
-
-# Give feedback (too high / too low)
-# Use a while loop
