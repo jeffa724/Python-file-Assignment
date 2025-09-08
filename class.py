@@ -120,14 +120,4 @@ class Car:
     def display_details(self):
         print(f"Make: {self.make}, Model: {self.model}, Year: {self.year}, Speed: {self.speed} km/h")   
         
-                
-    
-                
-                
-        
-    (one, two):
-        """
-        Purpose: one
-        """
-        
-    # end def
+            
